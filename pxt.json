@@ -1,0 +1,35 @@
+{
+    "name": "Jungle Jump Full",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll/",
+        "pxt-tilemaps": "github:microsoft/pxt-tilemaps/"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "tutorial.custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.2",
+        "tag": "v1.6.2",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5ad5fa8c411a2be5fef908691c250f6228ee8133",
+        "target": "1.8.29",
+        "pxt": "7.2.4",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
