@@ -1,5 +1,6 @@
 {
     "name": "Jungle Jump Full",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
